@@ -2,7 +2,7 @@
 
 O LBMM começou em 2026 a participar do UNESP Portas Abertas, um evento promovido na UNESP para receber estudantes do ensino médio, professores e a comunidade local.
 
-## Pasta com posteres do eventos
+## Pasta com posteres no evento
 
  * Participação em 2026: `2026/`
 
